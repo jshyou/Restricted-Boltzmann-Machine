@@ -1,2 +1,2 @@
-# Restricted-Boltzmann-Machine
-Collect interesting applications of RBM
+# Restricted-Boltzmann-Machine (RBM)
+Wikipedia (https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine) has a brief description on RBM which rose to prominence after Geoffrey Hinton and collaborators invented the contrastive divergence algorithm. The deep belief network triggered the revival of deep learning and more breakthroughs in last decade. The traditional teaching of RBM is based on a probabilistic model. In this project a data mapping is used to describe the relationship between visible and hidden layers, then the classical topics such as dimensionality reduction, feature extraction, data representation, classification and regression are studied within the data mapping framework.
